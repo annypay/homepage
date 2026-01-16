@@ -1,4 +1,4 @@
-import { FeatureItem, SocialLink } from './types';
+import { FeatureItem, SocialLink } from './types.ts';
 
 export const FEATURES: FeatureItem[] = [
     {
