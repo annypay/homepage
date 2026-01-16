@@ -1,10 +1,10 @@
 import React, { useEffect } from 'react';
-import Background from './components/Background';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import FeatureList from './components/FeatureList';
-import MarketTrend from './components/MarketTrend';
-import Footer from './components/Footer';
+import Background from './components/Background.tsx';
+import Header from './components/Header.tsx';
+import Hero from './components/Hero.tsx';
+import FeatureList from './components/FeatureList.tsx';
+import MarketTrend from './components/MarketTrend.tsx';
+import Footer from './components/Footer.tsx';
 
 const App: React.FC = () => {
     
